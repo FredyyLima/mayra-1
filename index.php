@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>MyResume Bootstrap Template - Index</title>
+  <title>Mayra opção 1</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -27,12 +27,6 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: MyResume - v4.10.0
-  * Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 
 <body>
@@ -718,7 +712,7 @@
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: [license-url] -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+          Editado por <a href="https://linktr.ee/fredyycarneiro">Fredy Carneiro</a>
       </div>
     </div>
   </footer><!-- End Footer -->
